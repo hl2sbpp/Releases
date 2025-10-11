@@ -5,6 +5,8 @@ Currently available releases:
 - Beta 2.1
 - Beta 3
 - Beta 4
+- Beta 5
+- Beta 6
 
 Bug reports and suggestions can be either in **Issues**, or in the [Discord Server](https://discord.gg/3DkET6fqXr).
 
