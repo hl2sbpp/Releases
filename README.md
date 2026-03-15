@@ -1,4 +1,7 @@
 # Half-Life 2: Sandbox++ Releases
+> [!WARNING]
+> Releases have moved to https://github.com/hl2sbpp/hl2sbpp.
+
 Currently available releases:
 - Beta 1
 - Beta 2
